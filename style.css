@@ -4,7 +4,7 @@
 }
 
 .header {
-  background-image: url(../../images/banner1.png);
+  background-image: url(../images/banner1.png);
   min-height: 737px;
   background-size: cover;
   background-position: center;
@@ -231,7 +231,7 @@
   display: block;
   width: 20px;
   height: 20px;
-  background: center / cover url(/images/icon-right.png);
+  background: center / cover url(images/icon-right.png);
 }
 
 .slick-prev:before {
@@ -239,7 +239,7 @@
   display: block;
   width: 20px;
   height: 20px;
-  background: center / cover url(/images/icon-left.png);
+  background: center / cover url(images/icon-left.png);
 }
 
 .button {
@@ -424,7 +424,7 @@ margin-bottom: 45px;
 }
 
 .form {
-  background-image: url(../../../images/Deep.png);
+  background-image: url(../images/Deep.png);
   min-height: 277px;
   background-size: cover;
   background-position: center;
